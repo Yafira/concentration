@@ -14,7 +14,7 @@ A card game for iOS
 
 - Add more cards to the game.
 
-- Add a "New Game" button to your UI which ends the current game in progress and begins a brand new game.
+- Add a "New Game" button to the UI which ends the current game in progress and begins a brand new game.
 
 - Shuffle the cards in Concentration's init() method.
 
