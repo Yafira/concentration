@@ -1,16 +1,16 @@
 # Concentration
-A card game for iOS 
+A card game for iOS
 
 
 # Objective
 
-- Recreate the demonstration given in lecture and then make some small enhancements. 
+- Recreate the demonstration given in lecture and then make some small enhancements.
 
-- Get experience creating a project in Xcode and typing code in from scratch. 
+- Get experience creating a project in Xcode and typing code in from scratch.
 
 # Required Tasks
 
-- Get the Concentration game working as demonstrated in lectures 1 and 2. 
+- Get the Concentration game working as demonstrated in lectures 1 and 2.
 
 - Add more cards to the game.
 
@@ -41,3 +41,5 @@ Stanford University's CS193p course Developing iOS11 Apps With Swift, Fall 2017-
 Online Document: The Swift Programming Language (Swift 4)
 
 Online Document: Swift API Design Guidelines
+
+![gif](concentration.gif)
